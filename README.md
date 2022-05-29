@@ -6,20 +6,27 @@
 - 📫 How to reach me bszczesny59@gmail.com
 - I am currently looking for a job as a junior python developer
 
-<table border="0" align="center">
- <tr>
-    <td>
-      <div align="center">
+<div align="center">
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SzczesnyBlazej)](https://git.io/streak-stats)
+ 
+ </div>
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SzczesnyBlazej&theme=tokyonight&show_icons=true)
-      </div>
-   </td>
-   <td>
-      <div align="center">
-
+<div align="center">
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SzczesnyBlazej&theme=tokyonight&show_icons=true) 
+ </div>
+ 
+<div align="center">
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzczesnyBlazej&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-      </div>
-   </td>
- </tr>
+ 
+ </div>
 
-</table>
+
+ 
+
+
+
+
+
