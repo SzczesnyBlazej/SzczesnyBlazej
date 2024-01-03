@@ -1,10 +1,10 @@
 # 👋 Hi, I’m @BlazejSzczesny
-- :birthday: I'm 23 years old
-- :open_book: I'm currently studying at the University of Gdansk
-- 👀 I’m interested in programming in python and java
-- 🌱 I'm currently learning how artificial intelligence works
-- 📫 How to reach me bszczesny59@gmail.com
-- I am currently looking for a job as a junior python developer
+- :birthday: I am 25 years old
+- :open_book: I graduated from the University of Gdansk
+- 👀 I'm interested in Javascript, react and python programming
+- 🌱 I am currently developing my [Quaddle](https://github.com/SzczesnyBlazej/Quaddle) project in react.
+- 📫 How to contact me bszczesny59@gmail.com
+- I am currently looking for a job as a junior react developer
 
 <div align="center">
  
